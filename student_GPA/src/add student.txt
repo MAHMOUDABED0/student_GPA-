@@ -1,0 +1,18 @@
+the first Name of Student:mahmoud 
+the Last Name of Student:abed
+the GPA you obtained:4
+the Course ID of each course:
+Course 1 ID: 10
+Course 2 ID: 0
+Course 3 ID: 30
+Course 4 ID: 40
+Course 5 ID: 50
+the first Name of Student:mahemoud 
+the Last Name of Student:abeed
+the GPA you obtained:4
+the Course ID of each course:
+Course 1 ID: 10
+Course 2 ID: 0
+Course 3 ID: 30
+Course 4 ID: 40
+Course 5 ID: 50
